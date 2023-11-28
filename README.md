@@ -1,6 +1,6 @@
 ## This is the [demo](https://wangliusong.github.io/) of the proposed D²Net.  
 D²Net has been accepted by APSIPA ASC 2022.  
-Bib Tex    
+BibTex:      
 @inproceedings{wang2022d,  
   title={D 2 Net: A Denoising and Dereverberation Network Based on Two-branch Encoder and Dual-path Transformer},  
   author={Wang, Liusong and Wei, Wenbing and Chen, Yadong and Hu, Ying},  
