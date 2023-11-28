@@ -1,4 +1,4 @@
-## This is the [demo](https://wangliusong.github.io/) of the proposed D²Net.  
+## This is the [demo](https://wangliusong.github.io/D2-Demo) of the proposed D²Net.  
 D²Net has been accepted by APSIPA ASC 2022.  
 BibTex:      
 @inproceedings{wang2022d,  
